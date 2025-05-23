@@ -3,6 +3,7 @@
 /build
 /dist
 /.vscode
+/.idea
 /__pycache__
 /markdown
 /vectorstore
